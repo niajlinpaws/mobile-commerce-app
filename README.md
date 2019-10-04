@@ -1,4 +1,4 @@
-# React Native Redux Starter Kit
+# Mobile-Commerce-App Kit
 
 An e-commerce mobile app for hardware parts using React Native and Redux.
 
